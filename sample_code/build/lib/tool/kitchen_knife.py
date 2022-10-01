@@ -1,0 +1,2 @@
+def cut():
+    print("cut!")
